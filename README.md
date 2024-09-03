@@ -1,39 +1,27 @@
-# 👋 Hello, I'm Neeraj!
-
-Welcome to my GitHub profile. I'm a passionate code enthusiast with a keen interest in learning new technologies. Currently, I'm diving deep into the world of Data Structures and Algorithms (DSA), striving to enhance my problem-solving skills.
-
-## 🔭 What I'm up to
-
-- Currently mastering the MERN (MongoDB, Express.js, React, Node.js) stack.
-- Exploring the world of full-stack development and building exciting projects.
-
-## 🌱 I’m currently learning
-
-- Sharpening my skills in Data Structures and Algorithms for efficient problem-solving.
-
-## 💻 Tech Stack
-
-Here are the technologies I'm currently using in my MERN (MongoDB, Express.js, React, Node.js) stack:
-
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other Tools:** Git, VSCode, Postman
-- **Hosting:** Heroku, Netlify
-
-Feel free to explore my repositories to see these technologies in action!
+# 💫 About Me:
+Welcome to my GitHub profile. I'm a passionate code enthusiast with a keen interest in learning new technologies. Currently, I'm diving deep into the world of Data Structures and Algorithms (DSA), striving to enhance my problem-solving skills.<br><br>🔭 What I'm up to<br>Currently mastering the MERN (MongoDB, Express.js, React, Node.js) stack.<br>Exploring the world of full-stack development and building exciting projects.<br>🌱 I’m currently learning<br>Sharpening my skills in Data Structures and Algorithms for efficient problem-solving.<br>💻 Tech Stack<br>Here are the technologies I'm currently using in my MERN (MongoDB, Express.js, React, Node.js) stack:<br><br>Frontend: React.js<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Other Tools: Git, VSCode, Postman<br>Hosting: Heroku, Netlify<br>Feel free to explore my repositories to see these technologies in action!<br><br>👯 I’m looking to collaborate on<br>I'm excited to collaborate on innovative web development projects. Let's build something amazing together!<br><br>📫 How to reach me<br>You can drop me an email anytime at Neeraj Gupta. Let's connect and create some coding magic! ✨<br><br>😊 Let's code with passion!<br>Feel free to explore my repositories and reach out. Together, we can turn ideas into reality.<br><br>Happy coding! 🖥️
 
 
-## 👯 I’m looking to collaborate on
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ne_eraj5151/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-gupta-b83243233/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Neeraj21519372) 
 
-I'm excited to collaborate on innovative web development projects. Let's build something amazing together!
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nexusneeraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nexusneeraj&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nexusneeraj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📫 How to reach me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nexusneeraj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-You can drop me an email anytime at [Neeraj Gupta](mailto:na1993194@gmail.com). Let's connect and create some coding magic! ✨
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 😊 Let's code with passion!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nexusneeraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Feel free to explore my repositories and reach out. Together, we can turn ideas into reality.
+---
+[![](https://visitcount.itsvg.in/api?id=nexusneeraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Happy coding! 🖥️
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
